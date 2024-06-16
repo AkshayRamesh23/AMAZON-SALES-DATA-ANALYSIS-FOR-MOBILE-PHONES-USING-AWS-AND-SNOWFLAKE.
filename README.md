@@ -76,4 +76,4 @@ The dashboard highlights key metrics and trends, offering insights into various 
 ![Dashboard](https://github.com/AnishmMore/Amazon-Sales-Data-Pipeline-Project/blob/main/dashboards/Screenshot%202023-11-06%20at%204.44.48%E2%80%AFPM.png)
 
 # Contact
-For any queries or further discussion regarding this project, feel free to contact Anish More.
+For any queries or further discussion regarding this project, feel free to contact Akshay Ramesh.
